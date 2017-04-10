@@ -1,0 +1,20 @@
+- Nome artefato: 001 - DomínioProblema.txt
+- Nome do(a) autor(a): Paula Resende
+- Data de criação: 10/04/2017
+- Hora de criação: 16:28:17s
+
+DOMÍNIO PROBLEMA 
+
+O corretor de provas tem como objetivo comparar as respostas de provas de alunos que compõem uma turma, com as respostas que são 
+previamente concebidas por ele mesmo como corretas, o que denomina-se de gabarito. Essa correção pode se dar de diversas formas, sendo 
+que tradicionalmente o professor compara as respostas das questões objetivas marcadas com as respostas corretas do gabarito manualmente
+e uma prova de cada vez. 
+Em contrapartida, as respostas das correções subjetivas se dá de maneira mais extensa, na qual o corretor se vê na posição de ler e 
+compreender a ideia passada pelo aluno através da discursividade da questão e baseando-se na ideia central extraída dessa, faz a comparação
+com a resposta correta de seu gabarito. Levando isso em consideração, determinada nota é atribuída para a questão, sendo que quanto mais 
+próxima da ideia central da resposta do gabarito, maior a nota do aluno. O contexto de aplicação que o software em questão desse documento 
+deve ser inserido se dá na praticidade que este proporciona para a correção, visto que através de um scanner e consequente repasse de 
+informações para o sistema, a comparação das respostas objetivas, que antes se dava manualmente, é feita em instantes e ainda é documentada
+em relação a quantidades de erros e acertos por aluno, podendo ter uma modelagem de dados mais ampla sobre o resultado da turma em um todo.
+Além disso, as questões subjetivas se tornam mais viáveis de correção, visto que o software permite o cadastro de uma resposta padrão como 
+parâmetro, possibilitando que o corretor possa ter de maneira segura e concisa esse gabarito.
