@@ -1,0 +1,13 @@
+- Nome artefato: 001-DescricaoSistema.txt
+- Nome do(a) autor(a): Paula Resende
+- Data de criação: 10/04/2017
+- Hora de criação: 16:26:35s
+
+DESCRIÇÃO SISTEMA
+A especificação de requisitos tem como objetivo atender às demandas que os atuais professores têm no que tange à correção de suas provas 
+objetivas e subjetivas em tempo hábil e com produtividade estatística. O sistema atual de correção impossibilita a correção massiva das 
+provas, pois se dá manualmente ou com pouca integração com plataformas auxiliares de armazenamento, como a nuvem.
+No contexto de correção de provas é importante o desenvolvimento de um sistema que supra as necessidades do professor de compreender 
+melhor o rendimento da turma, mais do que somente analisando os resultados individuais da prova, e sim gerando índices que mapeiam o 
+comportamento total da turma de forma comparativa e expositiva. Dessa maneira, o sistema permite não somente corrigir as provas com 
+auxílio de scanners e códigos query, como também informatizar a correção e armazenar dados em plataforma nuvem.
