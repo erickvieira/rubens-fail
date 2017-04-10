@@ -1,19 +1,12 @@
-- Nome artefato: 001 - AtaReunioes.txt
+- Nome artefato: 001 - AtaReuniaoI.txt
 - Nome do(a) autor(a): Paula Resende
 - Data de criação: 10/04/2017
 - Hora de criação: 15:49:22s
 
 
-Reuniões realizadas para efetuação do trabalho:
 
 Reunião I - Presentes: Erick e Paula;
 Data: 06/04/2017;
 Horário: 16:00h;
 Local: INF;
 Deliberações: Criação do Trello e atribuição de tarefas e prazos para equipe;
-
-Reunião II - Presentes: Erick e Paula;
-Data: 10/04/2017;
-Horário: 15:47h;
-Local: INF;
-Deliberações: Criação das primeiras tarefas e ambientação do ambiente Git e GitHub;
