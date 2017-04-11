@@ -1,0 +1,39 @@
+- Nome artefato: CumprimentoMarcos.txt
+- Nome do(a) autor(a): Natália Marufuji Aoki
+- Data de criação: 11/04/2017
+- Hora de criação: 12:17:29s
+
+Marco I: 
+Data de entrega :
+Horas necessárias :
+Horas possíveis :
+Quantidade de pessoas:
+Hora/Pessoa :
+
+Marco II: 
+Data de entrega :
+Horas necessárias :
+Horas possíveis :
+Quantidade de pessoas:
+Hora/Pessoa :
+
+Marco III: 
+Data de entrega :
+Horas necessárias :
+Horas possíveis :
+Quantidade de pessoas:
+Hora/Pessoa :
+
+Marco IV: 
+Data de entrega :
+Horas necessárias :
+Horas possíveis :
+Quantidade de pessoas:
+Hora/Pessoa :
+
+Marco V: 
+Data de entrega :
+Horas necessárias :
+Horas possíveis :
+Quantidade de pessoas:
+Hora/Pessoa :
