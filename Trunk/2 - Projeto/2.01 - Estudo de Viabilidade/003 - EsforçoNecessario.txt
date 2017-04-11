@@ -1,0 +1,20 @@
+- Nome artefato: EsforçoNecessario.txt
+- Nome do(a) autor(a): Natália Marufuji Aoki
+- Data de criação: 11/04/2017
+- Hora de criação: 12:27:29s
+
+I - Verificar a descrição do sistema
+
+II - Definir :
+	.Quantidade de pessoas envolvidas no projeto
+	.Horas necessárias
+	.Hora por cada envolvido
+	.Disponibilidade dos envolvidos
+	.Tempo estimado
+	.Tempo esperado pelo cliente
+	.Preço por hora de trabalho
+	.Complexidade do sistema
+
+III- Em questã de custo, verificar o custo-benefício do projeto.
+
+IV - Em questão de qualidade, verificar se o tempo esperado pelo cliente é compatível ao tempo necessário/real.
