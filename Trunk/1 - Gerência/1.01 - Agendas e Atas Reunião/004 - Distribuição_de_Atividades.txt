@@ -1,0 +1,6 @@
+- Nome artefato: 001 - DisponibilidadeEquipe.txt
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 11/04/2017
+- Hora de criação: 17:35:41s
+
+Documento destinado para relacionar tarefas a autores.
