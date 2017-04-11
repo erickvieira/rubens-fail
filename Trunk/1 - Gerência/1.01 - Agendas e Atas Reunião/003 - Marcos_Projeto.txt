@@ -1,5 +1,23 @@
-Nome da autora: Nat·lia Marufuji Aoki
+- Nome artefato: 001 - Marcos_Projeto.txt
+- Nome do(a) autor(a): Nat√°lia Marufuji
+- Data de cria√ß√£o: 11/04/2017
+- Hora de cria√ß√£o: 12:09:36s
 
-Data de criaÁ„o: 11/04/2017
 
-Hora de criaÁ„o: 12:09
+Marcos :
+
+Marco I
+- Inicia√ß√£o do projeto
+- Planejamento e delega√ß√£o das atividades
+
+Marco II
+- 25% das atividades delegadas entregues
+
+Marco IV
+- 50% das atividades delegadas entregues
+
+Marco V
+- 75% das atividades delegadas entregues
+
+Marco VI
+- 100% das atividades delegadas entregues
