@@ -15,10 +15,10 @@ LOCAL: Sede Level 5 Empresa Jr.
 
 Reuniao III:
 DATA: 11/04
-HORÁRIO: 16h 
+HORÁRIO: 18h 
 LOCAL: Sede Level 5 Empresa Jr.
 
 Reuniao IV:
 DATA: 12/04
-HORÁRIO: 16h 
+HORÁRIO: 18h 
 LOCAL: Sede Level 5 Empresa Jr.
