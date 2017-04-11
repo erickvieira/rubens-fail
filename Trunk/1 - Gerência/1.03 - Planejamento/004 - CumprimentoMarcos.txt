@@ -1,39 +1,52 @@
 - Nome artefato: CumprimentoMarcos.txt
-- Nome do(a) autor(a): Nat�lia Marufuji Aoki
-- Data de cria��o: 11/04/2017
-- Hora de cria��o: 12:17:29s
+- Nome do(a) autor(a): Natália Marufuji Aoki
+- Data de criação: 11/04/2017
+- Hora de criação: 12:17:29s
+
+Marco 0:
+Data de entrega: 07/04/2017
+Horas necessárias: 8h
+Horas possíveis: 10h
+Quantidade de pessoas: 1 pessoa
+Hora/Pessoa: 8h/pessoa
 
 Marco I: 
-Data de entrega :
-Horas necess�rias :
-Horas poss�veis :
-Quantidade de pessoas:
-Hora/Pessoa :
+Data de entrega: 10/04/2017
+Horas necessárias: 16h
+Horas possíveis: 18h
+Quantidade de pessoas: 2 pessoas
+Hora/Pessoa: 8h/pessoa
 
 Marco II: 
 Data de entrega :
-Horas necess�rias :
-Horas poss�veis :
+Horas necessárias :
+Horas possíveis :
 Quantidade de pessoas:
 Hora/Pessoa :
 
 Marco III: 
 Data de entrega :
-Horas necess�rias :
-Horas poss�veis :
+Horas necessárias :
+Horas possíveis :
 Quantidade de pessoas:
 Hora/Pessoa :
 
 Marco IV: 
 Data de entrega :
-Horas necess�rias :
-Horas poss�veis :
+Horas necessárias :
+Horas possíveis :
 Quantidade de pessoas:
 Hora/Pessoa :
 
 Marco V: 
 Data de entrega :
-Horas necess�rias :
-Horas poss�veis :
+Horas necessárias :
+Horas possíveis :
 Quantidade de pessoas:
 Hora/Pessoa :
+
+
+Nome artefato: 004 - CumprimentoMarcos.txt
+Nome do(a) autor(a) da alteração: ana Luísa Alves Burjack
+Data da alteração: 11/04/2017
+Hora da alteração: 12:59:02
