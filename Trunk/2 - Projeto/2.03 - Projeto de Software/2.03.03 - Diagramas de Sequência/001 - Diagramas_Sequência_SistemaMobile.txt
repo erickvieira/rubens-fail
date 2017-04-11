@@ -2,3 +2,8 @@ Nome artefato: 001 - Diagramas_Sequência_SistemaMobile.txt
 Nome da autora: Ana Luísa Alves Burjack
 Data de criação: 11/04/2017
 Hora de criação: 12:23:07
+
+Nome artefato: 001 - Diagramas_Sequência_SistemaMobile.txt
+Nome do(a) autor(a) da alteração: Natália Marufuji Aoki
+Data de alteração: 11/04/2017
+Hora de alteração: 13:14:02
