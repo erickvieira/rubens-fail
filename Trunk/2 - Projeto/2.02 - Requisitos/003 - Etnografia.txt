@@ -1,0 +1,18 @@
+- Nome artefato: Etnografia.txt
+- Nome do(a) autor(a): Natália Marufuji Aoki
+- Data de criação: 11/04/2017
+- Hora de criação: 12:27:29s
+
+Análise etnográfica:
+
+1 – identifique as áreas do negócio a serem observadas;
+Corpo docente da Universidade Federal de Goiás
+
+2 – identifique os usuários chaves de cada área;
+Professores
+
+3 – deixe clara a finalidade do estudo que será desenvolvido;
+O estudo está sendo realizado para que seja encontrada a melhor solução para o problema identificado.É necessário que possamos avaliar a rotina, processo, regras de negócio e políticas do cliente para que a solução genérica, se torne espefícia para ajudar de fato a resolver/solucionar o problema abordado. 
+
+4 - Resultados da análise:
+É possível observar o processo oneroso de correção de provas, tornando não só cansativo como demorado,podendo causar desgaste nos envolvidos do meio acadêmico.
