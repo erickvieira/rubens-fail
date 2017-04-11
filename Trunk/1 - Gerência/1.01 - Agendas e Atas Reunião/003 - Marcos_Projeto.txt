@@ -6,6 +6,9 @@
 
 Marcos :
 
+Marco 0
+- Definição dos Marcos
+
 Marco I
 - Iniciação do projeto
 - Planejamento e delegação das atividades
@@ -21,3 +24,9 @@ Marco IV
 
 Marco V
 - 100% das atividades delegadas entregues
+
+
+Nome artefato: 003 - Marcos_Projeto.txt
+Nome do(a) autor(a) da alteração: Ana Luísa Burjack
+Data da alteração: 11/04/2017
+Hora da alteração: 12:43:59
