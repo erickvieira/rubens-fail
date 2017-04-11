@@ -1,11 +1,21 @@
 - Nome artefato: Overview.txt
-- Nome do(a) autor(a): Nat·lia Marufuji Aoki
-- Data de criaÁ„o: 11/04/2017
-- Hora de criaÁ„o: 12:17:29s
+- Nome do(a) autor(a): Nat√°lia Marufuji Aoki
+- Data de cria√ß√£o: 11/04/2017
+- Hora de cria√ß√£o: 12:17:29s
 
 OverviewI
 
 Finalidade : 
-Entendimento das atividades deliberadas e an·lise dos prazos prÈ-definidos (As atividades est„o distribuÌdas de forma coerente? Os prazos de entrega est„o reais?)
+Entendimento das atividades deliberadas e an√°lise dos prazos pr√©-definidos (As atividades est√£o distribu√≠das de forma coerente? Os prazos de entrega est√£o reais?)
+
+OverviewII
+
+Finalidade:
+Verificar se as atividades e prazos est√£o sendo cumpridos e se h√° necessidade de alterar alguma atividade (particionando-a) ou aumentar algum prazo.
 
 
+
+Nome artefato: 004 - Overview.txt
+Nome do(a) autor(a) da altera√ß√£o: Ana Lu√≠sa Burjack
+Data da altera√ß√£o: 11/04/2017
+Hora da altera√ß√£o: 12:54:23
