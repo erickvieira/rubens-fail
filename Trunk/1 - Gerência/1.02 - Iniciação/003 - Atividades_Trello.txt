@@ -13,3 +13,12 @@ Hora de criação: 11:50:35
   Inicialização e finalização parcial da atividade 03;
   Inicialização e finalização parcial da atividade 06;
   Inicialização e finalização parcial da atividade 10;
+  
+  
+Nome artefato: 003 - Atividades_Trello.txt
+Nome do(a) autor(a) da alteração: Natália Marufuji Aoki
+Data de alteração: 11/04/2017
+Hora de alteração: 13:07:50
+
+  11/04/2017
+  Inicialização e finalização parcial da atividade 08;
