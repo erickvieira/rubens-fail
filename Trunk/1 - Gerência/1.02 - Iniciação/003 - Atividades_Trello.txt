@@ -2,3 +2,14 @@ Nome artefato: 003 - Atividades_Trello.txt
 Nome da autora: Ana Luísa Alves Burjack
 Data de criação: 11/04/2017
 Hora de criação: 11:50:35
+
+06/04/2017 e 07/04/2017
+  Criação do quadro de atividades no Trello;
+  Definição das atividades;
+  Inicialização e finalização das atividades 1 e 2;
+  DInício da delegação das atividades;
+  
+10/04/2017 e 11/04/2017
+  Inicialização e finalização parcial da atividade 03;
+  Inicialização e finalização parcial da atividade 06;
+  Inicialização e finalização parcial da atividade 10;
