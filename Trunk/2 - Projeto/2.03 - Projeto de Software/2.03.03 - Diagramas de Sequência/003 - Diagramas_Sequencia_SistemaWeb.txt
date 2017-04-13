@@ -1,0 +1,6 @@
+- Nome artefato: 003 - Diagramas_Sequencia_SistemaWeb
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 11:04:58s
+
+Diagramação da sequência de execução do sistema web.
