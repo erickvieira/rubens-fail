@@ -1,0 +1,6 @@
+- Nome artefato: 006 - Avaliacao_de_Riscos_do_Projeto
+- Nome do(a) autor(a): Ana Luiza Burjack (sem internet)
+- Data de criação: 13/04/2017
+- Hora de criação: 11:16:28s
+
+Avaliação de riscos dentro do projeto e documentação das decisões possíveis a se tomar, caso ocorram.
