@@ -1,0 +1,13 @@
+- Nome artefato: 004 - Validacao_Formal
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 10:47:28s
+
+Reunião para aplicação da metodologia de validação formal dos requisitos do sistema;
+Convocados:
+- Financiador - proprietário da empresa CONTRATANTE;
+- Gerente de Dep. Financeiro da empresa CONTRATANTE;
+- Gerente de RH da empresa CONTRATANTE;
+- Gerente de Projetos da empresa CONTRATADA;
+- Gerente de Design da empresa CONTRATADA;
+- Engenheiro de Requisitos da empresa CONTRATADA;
