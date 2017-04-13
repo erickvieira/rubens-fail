@@ -1,0 +1,6 @@
+- Nome artefato: 005 - Acompanhamento_do_Trello
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 10:41:27s
+
+Documento destinado a acompanhar a organização e cumprimento das atividades dispostas no Trello;
