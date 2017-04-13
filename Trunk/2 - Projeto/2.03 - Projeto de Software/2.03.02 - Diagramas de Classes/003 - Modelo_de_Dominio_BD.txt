@@ -1,0 +1,6 @@
+- Nome artefato: 003 - Modelo_de_Dominio_BD
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 11:01:47s
+
+Documento destinado à definição do modelo de domínio do sistema, a partir das regras de negócio e do diagrama de classes.
