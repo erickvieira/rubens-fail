@@ -1,6 +1,11 @@
 - Nome artefato: 001 - DisponibilidadeEquipe.txt
 - Nome do(a) autor(a): Erick Vieira
-- Data de criaÁ„o: 11/04/2017
-- Hora de criaÁ„o: 17:35:41s
+- Data de cria√ß√£o: 11/04/2017
+- Hora de cria√ß√£o: 17:35:41s
 
-Documento destinado para relacionar tarefas a autores.
+Documento destinado para relacionar tarefas a autores, al√©m de estabelecer extimativa de prazos para cumprimento.
+
+- Nome artefato: 001 - DisponibilidadeEquipe.txt
+- Nome do(a) autor(a) da altera√ßao: Paula Resende
+- Data de alteracao: 12/04/2017
+- Hora de alteracao: 21:31:20s
