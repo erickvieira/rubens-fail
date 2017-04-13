@@ -1,0 +1,6 @@
+- Nome artefato: 004 - Estudo_do_Modelo_de_Negocio
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 10:47:28s
+
+Documentação e validação do modelo de negócio do cliente para futuras diagramações.
