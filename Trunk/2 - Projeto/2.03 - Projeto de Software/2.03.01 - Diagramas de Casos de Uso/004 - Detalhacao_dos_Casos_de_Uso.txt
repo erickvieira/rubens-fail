@@ -1,0 +1,6 @@
+- Nome artefato: 004 - Detalhacao_dos_Casos_de_Uso
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 10:57:31s
+
+Documento destinado a descrever textualmente cada caso de uso, em linguagem natural de amplo conhecimento da equipe e formalmente reconhecida no regimento interno da empresa.
