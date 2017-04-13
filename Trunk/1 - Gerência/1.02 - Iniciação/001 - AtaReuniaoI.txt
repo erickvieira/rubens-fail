@@ -10,3 +10,9 @@ Data: 06/04/2017;
 Horário: 16:00h;
 Local: INF;
 Deliberações: Criação do Trello e atribuição de tarefas e prazos para equipe;
+
+Reuniao II - Presentes: Paula, Erick, Ana e Natália;
+Data: 12/04/2017;
+Horário: 20:20;
+Local: CAB;
+Deliberações: Acompanhamento do projeto e discução a respeito da criação de uma nova branch;
