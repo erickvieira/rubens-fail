@@ -1,0 +1,6 @@
+- Nome artefato: 005 - Checklist_Acompanhamento_das_Atividades
+- Nome do(a) autor(a): Erick Vieira
+- Data de criação: 13/04/2017
+- Hora de criação: 10:36:41s
+
+Documento destinado a acompanhar a realização das atividades pelos membros da equipe;
