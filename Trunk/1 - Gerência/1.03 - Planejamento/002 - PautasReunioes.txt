@@ -9,8 +9,9 @@ Reuniao I:
 - Dividir cartões igualitariamente para equipe;
 
 Reuniao II:
-- Iniciar primeiro contato com git e github;
-- Criar diretórios e arquivos;
+- Acompanhamento do projeto;
+- Criação da nova branch;
+- Criação das baselines necessarias;
 
 Reuniao III:
 - Elaborar parecer de todas as atividades distribuídas;
